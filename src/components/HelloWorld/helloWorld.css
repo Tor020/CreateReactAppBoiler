@@ -1,0 +1,14 @@
+h1 {
+    font-family: sans-serif;
+    font-size: 56px;
+    padding: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin: 0;
+    background: linear-gradient(to left, 
+                                #24C157 0%,
+                                #2ada25 25%, 
+                                #51c113 50%, 
+                                #1c3 75%, 
+                                #20De05 100%);
+}
